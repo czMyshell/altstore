@@ -1,0 +1,48 @@
+{
+  "name": "MyShell: AI Photo Generator",
+  "subtitle": "AI Photo Generator",
+  "description": "Transform photos instantly! Create stunning AI art, realistic face swaps, and dynamic videos in seconds. The ultimate creative studio for avatars & editing is here.",
+  "iconURL": "https://www.myshellstatic.com/image/chat/embed_obj/40666793/202512231320/App%20Store%20-%201x_1766496036157.png",
+  "website": "https://ai.myshell.ai",
+  "apps": [
+    {
+      "name": "MyShell: AI Photo Generator",
+      "bundleIdentifier": "ai.myshell.app",
+      "marketplaceID": "6448938313",
+      "developerName": "MyShell Developer",
+      "localizedDescription": "Transform photos instantly! Create stunning AI art, realistic face swaps, and dynamic videos in seconds. The ultimate creative studio for avatars & editing is here.",
+      "iconURL": "https://www.myshellstatic.com/image/chat/embed_obj/40666793/202512231320/App%20Store%20-%201x_1766496036157.png",
+      "versions": [
+        {
+          "version": "2.0.9",
+          "buildVersion": "19",
+          "date": "2025-12-23T11:28:00+08:00",
+          "downloadURL": "https://www.myshellstatic.com/image/homepage/app_resource/altStoreAdpFile.zip"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.usernotifications.communication",
+          "aps-environment"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "This allows MyShell to take photos to be included in your messages.",
+          "NSMicrophoneUsageDescription": "You can chat with bots using your voice.",
+          "NSPhotoLibraryUsageDescription": "This allows MyShell to attach photos from your library to your messages.",
+          "NSPhotoLibraryAddUsageDescription": "Give MyShell permission to save photos",
+          "NSUserTrackingUsageDescription": "We use this data to help us personalize your experience.",
+          "NSLocationWhenInUseUsageDescription": "We need your location to provide local services."
+        }
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "2.0.9 Announcement",
+      "identifier": "209_release",
+      "caption": "Introducing MyShell 2.0.9 in AltStore!",
+      "date": "2025-12-23T11:28:00+08:00"
+    }
+  ]
+}
