@@ -14,10 +14,10 @@
       "iconURL": "https://www.myshellstatic.com/image/chat/embed_obj/40666793/202512231320/App%20Store%20-%201x_1766496036157.png",
       "versions": [
         {
-          "version": "2.0.9",
-          "buildVersion": "19",
+          "version": "2.0.8",
+          "buildVersion": "17",
           "size": 1249656494,
-          "date": "2025-12-23T11:28:00+08:00",
+          "date": "2025-12-19T11:28:00+08:00",
           "downloadURL": "https://www.myshellstatic.com/image/homepage/app_resource/altStoreAdpFile/manifest.json"
         }
       ],
@@ -40,10 +40,10 @@
   ],
   "news": [
     {
-      "title": "2.0.9 Announcement",
-      "identifier": "209_release",
-      "caption": "Introducing MyShell 2.0.9 in AltStore!",
-      "date": "2025-12-23T11:28:00+08:00"
+      "title": "2.0.8 Announcement",
+      "identifier": "208_release",
+      "caption": "Introducing MyShell 2.0.8 in AltStore!",
+      "date": "2025-12-19T11:28:00+08:00"
     }
   ]
 }
